@@ -64,6 +64,8 @@
 
 ---
 
+<a id="introduction"></a>
+
 ## 📖 Introduction
 
 Python is a **high-level, interpreted programming language**.
@@ -74,6 +76,8 @@ Python is a **high-level, interpreted programming language**.
 
 ---
 
+<a id="why-python"></a>
+
 ## 🚀 Why Python?
 
 * Simple syntax
@@ -83,6 +87,8 @@ Python is a **high-level, interpreted programming language**.
 
 ---
 
+<a id="python-history"></a>
+
 ## 🕰 Python History
 
 * Created in 1989
@@ -90,6 +96,8 @@ Python is a **high-level, interpreted programming language**.
 * Named after *Monty Python*
 
 ---
+
+<a id="applications"></a>
 
 ## 🌍 Applications
 
@@ -99,6 +107,8 @@ Python is a **high-level, interpreted programming language**.
 * Data Science
 
 ---
+
+<a id="numbers"></a>
 
 # 🔢 Numbers
 
@@ -111,6 +121,8 @@ print(2%3)
 
 ---
 
+<a id="strings"></a>
+
 # 🔤 Strings
 
 ```python
@@ -121,6 +133,8 @@ print(2%3)
 
 ---
 
+<a id="escape-sequences"></a>
+
 # 🔡 Escape Sequences
 
 ```python
@@ -130,6 +144,8 @@ print("\\")
 ```
 
 ---
+
+<a id="data-types-overview"></a>
 
 # 🧪 Data Types Overview
 
@@ -147,6 +163,8 @@ bool
 
 ---
 
+<a id="type-casting"></a>
+
 # 🔄 Type Casting
 
 ```python
@@ -155,6 +173,8 @@ float(5)
 ```
 
 ---
+
+<a id="variables"></a>
 
 # 🧠 Variables
 
@@ -168,6 +188,8 @@ name = "kalyani"
 
 ---
 
+<a id="rules"></a>
+
 # 📏 Rules
 
 * Start with letter/_
@@ -175,6 +197,8 @@ name = "kalyani"
 * No keywords
 
 ---
+
+<a id="basic-print"></a>
 
 # 🖨 Basic Print
 
@@ -184,6 +208,8 @@ print(10,20)
 
 ---
 
+<a id="formatted-print"></a>
+
 # 🧾 Formatted Print
 
 ```python
@@ -192,6 +218,8 @@ print("sum is", a+b)
 
 ---
 
+<a id="f-strings"></a>
+
 # 🎯 f-Strings
 
 ```python
@@ -199,6 +227,8 @@ print(f"sum is {a+b}")
 ```
 
 ---
+
+<a id="end--sep"></a>
 
 # 🔚 end & sep
 
@@ -211,6 +241,8 @@ print("a","b","c", sep="-")
 
 ---
 
+<a id="indexing"></a>
+
 # 🔢 Indexing
 
 ```python
@@ -220,6 +252,8 @@ print(name[-1])
 ```
 
 ---
+
+<a id="slicing"></a>
 
 # ✂️ Slicing
 
@@ -231,6 +265,8 @@ name[2:]
 
 ---
 
+<a id="immutability"></a>
+
 # ❌ Immutability
 
 ```python
@@ -238,6 +274,8 @@ name[2:]
 ```
 
 ---
+
+<a id="string-methods"></a>
 
 # 🔤 String Methods
 
@@ -251,6 +289,8 @@ text.replace("a","b")
 
 ---
 
+<a id="list-basics"></a>
+
 # 📦 List Basics
 
 ```python
@@ -258,6 +298,8 @@ numbers = [1,2,3]
 ```
 
 ---
+
+<a id="list-operations"></a>
 
 # 🔄 List Operations
 
@@ -268,6 +310,8 @@ numbers[0] = 10
 
 ---
 
+<a id="nested-lists"></a>
+
 # 🧩 Nested Lists
 
 ```python
@@ -275,6 +319,8 @@ x = [["a"],[1]]
 ```
 
 ---
+
+<a id="while-loop"></a>
 
 # 🔁 While Loop
 
@@ -287,6 +333,8 @@ while i < 5:
 
 ---
 
+<a id="fibonacci"></a>
+
 # 🔢 Fibonacci
 
 ```python
@@ -297,6 +345,8 @@ while a < 10:
 ```
 
 ---
+
+<a id="common-errors"></a>
 
 # ⚠️ Common Errors
 
@@ -309,6 +359,8 @@ IndexError
 
 ---
 
+<a id="top-questions"></a>
+
 # 💡 Top Questions
 
 | Question       | Answer       |
@@ -318,6 +370,8 @@ IndexError
 | Dynamic typing | Type changes |
 
 ---
+
+<a id="python-in-ai"></a>
 
 # 🤖 Python in AI
 
